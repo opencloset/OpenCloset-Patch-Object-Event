@@ -8,8 +8,8 @@ use warnings;
 our $VERSION = '0.002';
 
 {
-
-    package Object::Event;
+    package
+        Object::Event;
 
     use strict;
     use warnings;

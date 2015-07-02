@@ -1,6 +1,8 @@
 Revision history for {{ $dist->name }}
 
 {{ $NEXT }}
+
+0.002     2015-07-02 11:57:03+09:00 Asia/Seoul
     - Hide original module name from indexing
 
 0.001     2015-07-01 18:07:23+09:00 Asia/Seoul
